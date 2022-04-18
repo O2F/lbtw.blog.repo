@@ -1,0 +1,7 @@
+[submodule "themes/hugo-theme-cleanwhite"]
+	path = themes/hugo-theme-cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "public"]
+	path = public
+	url = git@github.com:O2F/o2f.github.io.git
+	branch = main

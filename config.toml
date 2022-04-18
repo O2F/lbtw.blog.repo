@@ -1,0 +1,55 @@
+baseURL = 'https://o2f.github.io'
+languageCode = 'en-us'
+title = 'Hugo Fernandes'
+author = "Hugo Fernandes"
+theme = "hugo-theme-cleanwhite"
+preserveTaxonomyNames = true
+paginate = 50
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  header_image = "images/binary_code_stream.jpg"
+  favicon = "images/favicon.ico"
+  title = "And Yet Another Blog Borns"
+  author = "Hugo Fernandes"
+  slogan = "Topics and experiences that I come accross about life in general, Software Testing and Test Automation"
+  SEOTitle = 'And Yet Another Blog Borns'
+  keyword = 'experiences, books, test automation, software testing, testing, test snippets'
+
+  #Sidebar settings
+  sidebar_about_description = "software tester, neuroscience curious, book reader... and when there is time, gamer"
+  sidebar_avatar= "images/me.png"
+  about_me = true
+
+
+  featured_tags = true 
+  featured_condition_size = 0   
+
+  image_404 = "images/404-bg.jpeg"
+  title_404 = "We couldn't find what you were looking for..."
+
+  # this displays the categories on the top
+  omit_categories = false
+
+  # To add other menu
+  [[params.addtional_menus]]
+  title =  "Tags"
+  href =  "/tags"
+
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/top/about/"
+
+  [params.social]
+  rss            = true
+  email          = "oxy.fluid@gmail.com"
+  linkedin       = "https://www.linkedin.com/in/hugo-fernandes-a727083b"
+  github         = "https://github.com/o2f"
+  #medium         = "add address"
+  #stackoverflow  = "add address"
+  #reddit         = "add address"
+
