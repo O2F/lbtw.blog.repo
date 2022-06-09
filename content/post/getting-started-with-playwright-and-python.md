@@ -1,5 +1,5 @@
 ---
-title: "Getting Started With Playwright and Python"
+title: "Getting Started With Playwright using Python"
 description: small playwright project with python
 date: 2022-06-09T14:16:13+01:00
 draft: false
@@ -9,7 +9,7 @@ tags: ["python", "playwright", "test automation"]
 categories: ["experiences"]
 ---
 
-# Getting Started with Playwright and Python
+# Getting Started with Playwright using Python
 
 With Playwright being more and more accepted in the _world of test automation_ and python a great programming language to create automation I've decided to give it a go to create a demo project using Playwright and Python and in the process documenting my experiment in this article.
 
