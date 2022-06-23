@@ -463,8 +463,7 @@ jobs:
 ## Other Links and References
 
 ### Demo project
-
-[GitHub Repo](https://github.com/O2F/qa-frwks-bootstraps/tree/main/playwright-python-ui)
+- [GitHub Repo](https://github.com/O2F/playwright-python-starter)
 ### References
 - dataclasses: https://realpython.com/python-data-classes/
 - Playwright python documentation: https://playwright.dev/python/docs/intro
